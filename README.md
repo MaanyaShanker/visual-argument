@@ -4,11 +4,14 @@ My project intends to depict a serious issue for social media. The issue I'm foc
 
 # Sources
 The following images were acquired from Vecteezy:
+
 https://www.vecteezy.com/photo/29925839-cute-man-cartoon-on-white-background
 
 https://www.vecteezy.com/photo/28864279-cartoon-happy-fat-man-on-white-background
 
 The following image was designed by freepik:
+
+
 https://www.freepik.com/icon/no-wifi_1199612
 
 These images were free to use
