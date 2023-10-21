@@ -1,5 +1,4 @@
-# Echo Chambers: Who's Right?
-<sub><sup>Hint: It’s no one</sup></sub>
+# Echo Chambers: Who's Right? <sub><sup>Hint: It’s no one</sup></sub>
 
 ## Introduction
 For this visual argument, I wanted to force people to think critically for what they see on the internet. Of course, many people at this point know that they cannot easily believe everything they see on the internet, but the issue lies a bit deeper than that. This is where echo chambers come into play. An echo chamber is where people are fed the same information that they already believe in, which strengthens in their belief. However, I believe that is important for people to see conflicting information and to challenge beliefs in order to critically think. It can also help to strengthen their own argument as they can evaluate counter examples. 
