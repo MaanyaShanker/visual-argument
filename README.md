@@ -1,11 +1,13 @@
 # Echo Chambers: Who's Right? <sub><sup>Hint: It’s no one</sup></sub>
 
-## Introduction
+## Introduction/Reflection
 For this visual argument, I wanted to force people to think critically for what they see on the internet. Of course, many people at this point know that they cannot easily believe everything they see on the internet, but the issue lies a bit deeper than that. This is where echo chambers come into play. An echo chamber is where people are fed the same information that they already believe in, which strengthens in their belief. However, I believe that is important for people to see conflicting information and to challenge beliefs in order to critically think. It can also help to strengthen their own argument as they can evaluate counter examples. 
 
 But another issue is when people are constantly fed information, sometimes this is how false information is spread. If something is false, the search engines will continue to try to find content that you will engage with more and then feed that to you first before other suggestions. Why does this happen?
 
 Because that is how revenue can be generated. Keeping a user engaged for longer means more money depending on ads and stuff. If a user believes in something, the user is more likely to stay and engage with that content, rather if you say something the user won’t believe, they may just click off automatically. There is a lack of content that continuously challenges beliefs, which makes it hard for users to feed into that content.
+
+As someone who has very minimal use of gimp, this image was a lot harder to create. The most I use gimp for is to edit my nail art pictures, but having to create a cohesion between images is way harder than I thought. This really opened up my eyes to not only having to shift my brain into a more creative aspect (especially when trying to get images to work together), but also understand how to do it technically. This image can be a lot better overall, but for what it is, I'm proud of how far I came.
 
 ## Creative Process
 I wanted to take a very “black and white” approach (literally and figuratively). The stark contrast between the black and white should be jarring to the user however also pleasing to the eye as the images flip. The only source of actual color is in the cartoon people at the bottom, which should lead their eyes next. This creates contrast as well as a little bit of visual rhythm as things are repeated. The image on the left and right are the same, however it is able to depict that they are on opposing sides, but being fed that they are still right. 
